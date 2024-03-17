@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "mock_ces.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
