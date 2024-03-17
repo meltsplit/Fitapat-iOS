@@ -1,0 +1,810 @@
+{
+  "sourceLanguage" : "ko",
+  "strings" : {
+    " 원" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " won"
+          }
+        }
+      }
+    },
+    " 추천 키워드" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "s"
+          }
+        }
+      }
+    },
+    "2024 CES" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2024 CES"
+          }
+        }
+      }
+    },
+    "AI 결과" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AI Result"
+          }
+        }
+      }
+    },
+    "AI 펫 만들기" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apply to my Pet"
+          }
+        }
+      }
+    },
+    "Apple로 로그인" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sign in with Apple"
+          }
+        }
+      }
+    },
+    "CES exhibition, stand in front of mobile IT booth" : {
+
+    },
+    "CES 박람회에 참여했어요" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "At the CES show 🐶"
+          }
+        }
+      }
+    },
+    "COMMING SOON" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coming Soon"
+          }
+        }
+      }
+    },
+    "Hogwarts school" : {
+
+    },
+    "snowing mountain" : {
+
+    },
+    "가상모델 AI 결과" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AI Model Result"
+          }
+        }
+      }
+    },
+    "각 키워드 당 최대 1개" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maximum 1 per keyword"
+          }
+        }
+      }
+    },
+    "겨울" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Winter"
+          }
+        }
+      }
+    },
+    "결제 정보" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Payment Information"
+          }
+        }
+      }
+    },
+    "구매하기" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buy"
+          }
+        }
+      }
+    },
+    "그만두기" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quit"
+          }
+        }
+      }
+    },
+    "날씨가 많이 쌀쌀해졌네요" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It's cold outside 🥶"
+          }
+        }
+      }
+    },
+    "다른 유저의 결과물이 마음에 들었다면 따라해보세요" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You can try with your pet"
+          }
+        }
+      }
+    },
+    "마법학교" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wizard"
+          }
+        }
+      }
+    },
+    "멋진 결과물이 완성되었어요!" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Congratulations"
+          }
+        }
+      }
+    },
+    "반려동물 등록에 성공했어요" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Success"
+          }
+        }
+      }
+    },
+    "반려동물 커스텀 AI 만들기" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Create AI Pet"
+          }
+        }
+      }
+    },
+    "반려동물 커스텀 굿즈를 지금 만들어보세요" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Make Marchandise"
+          }
+        }
+      }
+    },
+    "반려동물의 AI 모델을 생성하고 있어요" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Training the model..."
+          }
+        }
+      }
+    },
+    "반려동물의 다채로운 모습을 직접 만들어요" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Create a colorful look for your pet"
+          }
+        }
+      }
+    },
+    "배경" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Background"
+          }
+        }
+      }
+    },
+    "배경, 머리, 옷를 원하는대로 꾸밀 수 있어요" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Customize the \nAccesory, Outfit, and Background"
+          }
+        }
+      }
+    },
+    "배송비" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delivery Fee"
+          }
+        }
+      }
+    },
+    "사랑하는 반려동물과\n매순간\n함께하는 최고의 방법" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The best way to being with Your Pet"
+          }
+        }
+      }
+    },
+    "사랑하는 반려동물과 회원님만을 위한\n특별한 설렘을 선물할게요" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "We will present Your Pets"
+          }
+        }
+      }
+    },
+    "사진이 저장되었습니다" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Photo Saved"
+          }
+        }
+      }
+    },
+    "상품 가격" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Product Price"
+          }
+        }
+      }
+    },
+    "상품 둘러보기" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Browse Products"
+          }
+        }
+      }
+    },
+    "상품 옵션을 선택해주세요" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select a product option"
+          }
+        }
+      }
+    },
+    "상품 정보를 불러올 수 없습니다." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unable to retrieve product information"
+          }
+        }
+      }
+    },
+    "상품을 선택해주세요" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select a Product"
+          }
+        }
+      }
+    },
+    "상품이 장바구니에 담겼어요" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The item was added to the cart"
+          }
+        }
+      }
+    },
+    "새로운 컨셉이 곧 출시됩니다!" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coming Soon"
+          }
+        }
+      }
+    },
+    "아직 작성된 컨셉이 없어요" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Prompts yet"
+          }
+        }
+      }
+    },
+    "아직 장바구니에 담은 상품이 없어요" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You don't have any items in cart yet"
+          }
+        }
+      }
+    },
+    "악세서리" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acc"
+          }
+        }
+      }
+    },
+    "알 수 없는 오류가 발생했어요" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "An unknown error occurred"
+          }
+        }
+      }
+    },
+    "앞으로도 다양한 컨셉의 AI를 커스텀 해보세요" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " "
+          }
+        }
+      }
+    },
+    "앨범" : {
+
+    },
+    "오픈 예정 상품이에요" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coming Soon Product"
+          }
+        }
+      }
+    },
+    "옷" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Outfit"
+          }
+        }
+      }
+    },
+    "우리집 반려동물 커스텀 AI 만들기" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apply to my Pet"
+          }
+        }
+      }
+    },
+    "원" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "won"
+          }
+        }
+      }
+    },
+    "원하는 상품을 둘러보고 구매해보세요" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Browse and buy what you want"
+          }
+        }
+      }
+    },
+    "원하는 컨셉을 작성해보세요" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter a word or a sentence"
+          }
+        }
+      }
+    },
+    "위 결과물을 내 반려동물에 반영해보세요!" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You can apply the result to your pet"
+          }
+        }
+      }
+    },
+    "윙가르디움 레비오우사!" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wingardium Leviosa 🪄"
+          }
+        }
+      }
+    },
+    "이미 추가된 옵션이에요" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Already added option"
+          }
+        }
+      }
+    },
+    "이미지 업로드 도중 화면을 닫거나, 앱을 중단하면 업로드가 중단될 수 있어요" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Closing the screen or interrupting the app while uploading an image can interrupt the upload."
+          }
+        }
+      }
+    },
+    "이미지 업로드에 실패했어요" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fail to upload Photos"
+          }
+        }
+      }
+    },
+    "이미지를 업로드 하고 있어요" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uploading Image..."
+          }
+        }
+      }
+    },
+    "인터넷 연결 상태를 확인 후 다시 시도해주세요" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No internet connection"
+          }
+        }
+      }
+    },
+    "장바구니" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cart"
+          }
+        }
+      }
+    },
+    "저장하기" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save"
+          }
+        }
+      }
+    },
+    "지금 떠나면 최종 결과물을 볼 수 없어요" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You cannot see the final result"
+          }
+        }
+      }
+    },
+    "총 결제 금액" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toal Price"
+          }
+        }
+      }
+    },
+    "총 상품 금액" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total Product Price"
+          }
+        }
+      }
+    },
+    "최종 입력값" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prompts"
+          }
+        }
+      }
+    },
+    "취소" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        }
+      }
+    },
+    "카카오톡으로 로그인" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sign in with Kakao"
+          }
+        }
+      }
+    },
+    "커뮤니티" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Community"
+          }
+        }
+      }
+    },
+    "커스텀 상품을 구매하면 우리집 반려동물에 해당 AI 스타일이\n반영된 이미지와 세상에 하나뿐인 굿즈를 만들어 드려요" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You can make your own AI Pet Merchandise"
+          }
+        }
+      }
+    },
+    "커스텀 완료하기" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Done"
+          }
+        }
+      }
+    },
+    "커스텀 하고 싶은 컨셉을 선택해주세요" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose a Theme"
+          }
+        }
+      }
+    },
+    "커스텀을 그만두시나요?" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stop Customizing?"
+          }
+        }
+      }
+    },
+    "커스텀을 원하는 키워드를 선택해주세요" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select a Keyword to Customize"
+          }
+        }
+      }
+    },
+    "컨셉" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Theme"
+          }
+        }
+      }
+    },
+    "펫이 선택되지 않았어요" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select Pet First"
+          }
+        }
+      }
+    },
+    "핏어팻" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "fitapat"
+          }
+        }
+      }
+    },
+    "핏어팻 회원가입을\n진심으로 환영해요!" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welcome To Fitapat"
+          }
+        }
+      }
+    },
+    "함께" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "With"
+          }
+        }
+      }
+    },
+    "홈에서 둘러보기" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Home"
+          }
+        }
+      }
+    },
+    "홈으로 돌아가기" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Home"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

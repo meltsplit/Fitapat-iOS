@@ -138,6 +138,7 @@ iOSInjectionProject/
 ## GitHub Private 이면 아래 두 파일 ignore하지 않아도 됨 (2023.8.5 Github 레포지토리 Private 으로 변경)
 ZOOC/ZOOC/Configuration/*.xcconfig
 ZOOC/ZOOC/Configuration/*.plist
+ZOOC/ZOOC/ZOOC.entitlements
 *.plist
 *.xcconfig
 
